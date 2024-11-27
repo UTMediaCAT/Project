@@ -19,7 +19,7 @@ idna==2.8
 jdcal==1.4.1
 jieba3k==0.35.1
 joblib==0.16.0
-lxml==4.4.2
+lxml==4.6.3
 monotonic==1.5
 newspaper3k==0.2.8
 nltk==3.5
