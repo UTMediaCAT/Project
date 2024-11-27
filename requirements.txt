@@ -47,6 +47,6 @@ tld==0.11.9
 tldextract==2.2.3
 tqdm==4.48.2
 tweepy==3.9.0
-urllib3==1.25.10
+urllib3==1.26.5
 urlnorm==1.1.4
 urltools==0.4.0
